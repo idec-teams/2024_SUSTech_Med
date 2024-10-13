@@ -39,12 +39,14 @@ repo_url: https://github.com/idec-teams/2024_SUSTech_Med
 copyright: Copyright &copy; 2024 iDEC. CC-BY-4.0 | The International Directed Evolution Competition (iDEC) is a Scottish Charitable Incorporate Organisation (SCIO), registered in Scotland, with charity number：SC050826
 
 nav:
-  - Home: index.md
+  - Index: index.md
   - Team: team.md
   - Project:
-      - Background: project/background.md
-      - Results: project/results.md
+      - Abstract: project/Abstract.md
+      - Design: project/Design.md
+      - Results: project/Results.md
   - Documentation:
-      - Protocols: documentation/protocols.md
-      - Lab notebook: documentation/notebook.md
-  - Some useful features: useful_features.md
+      - Notebook: documentation/Notebook.md
+      - Protocols: documentation/Protocols.md
+      - Reference: documentation/Reference.md
+      - Safety: documentation/Safety.md
